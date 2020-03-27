@@ -1,9 +1,9 @@
 package com.qa.main;
 
 public class HelloWorld3 {
-	public void printString(String MyString) {
-		System.out.println(MyString);
-		
+	public void printString(String myString) {
+		System.out.println(myString);
+
 	}
-	 
+
 }
